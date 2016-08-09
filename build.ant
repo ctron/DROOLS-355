@@ -14,6 +14,7 @@
 		<mkdir dir="download" />
 		<get src="http://repo1.maven.org/maven2/org/kie/remote/kie-remote-common/6.4.0.Final/kie-remote-common-6.4.0.Final.jar" dest="download" usetimestamp="true" />
 		<get src="http://repo1.maven.org/maven2/org/kie/remote/kie-remote-client/6.4.0.Final/kie-remote-client-6.4.0.Final.jar" dest="download" usetimestamp="true" />
+		<get src="http://repo1.maven.org/maven2/org/kie/remote/ws/kie-remote-ws-common/6.4.0.Final/kie-remote-ws-common-6.4.0.Final.jar" dest="download" usetimestamp="true" />
 		<get src="http://repo1.maven.org/maven2/org/kie/kie-api/6.4.0.Final/kie-api-6.4.0.Final.jar" dest="download" usetimestamp="true" />
 		<get src="http://repo1.maven.org/maven2/org/kie/kie-internal/6.4.0.Final/kie-internal-6.4.0.Final.jar" dest="download" usetimestamp="true" />
 		<get src="http://repo1.maven.org/maven2/org/drools/drools-compiler/6.4.0.Final/drools-compiler-6.4.0.Final.jar" dest="download" usetimestamp="true" />
